@@ -1,2 +1,1 @@
-# manufacturing
-A place to open source various bits I come across while learning how to manufacture various products!
+I'm using this repo as a place to open source measurements, schematics and general information about manufacturing products.
